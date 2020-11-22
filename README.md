@@ -59,7 +59,7 @@ I'm Mohamed Rahman Shareff S, Cyber Security Enthusiast, basically a Blogger, Yo
 [<img src="https://img.shields.io/badge/-Medium-000000?style=social&logo=medium" />](https://mohamedrahmanshareff.medium.com)
 [<img src="https://img.shields.io/badge/-Instagram-000000?style=social&logo=instagram" />](https://www.instagram.com/shariff_official_site/)
 
-[<img src="https://img.shields.io/badge/-Twitter-000000?style=social&logo=twitter" />](https://twitter.com/rahman_shariff) 
+[<img src="https://img.shields.io/badge/-Twitter-000000?style=social&logo=twitter" />](https://twitter.com/rahman_shareff) 
 [<img src="https://img.shields.io/badge/-Dribbble-000000?style=social&logo=dribbble" />](#) 
 [<img src="https://img.shields.io/badge/-Behance-000000?style=social&logo=behance" />](#)
 [<img src="https://img.shields.io/badge/-Discord-000000?style=social&logo=discord" />](#)
