@@ -32,8 +32,8 @@ I'm Mohamed Rahman Shareff S, Cyber Security Enthusiast, basically a Blogger, Yo
 <table style="border:0px;">
 	<tr>
 		<td>
-		<img src="https://giphy.com/gifs/JIX9t2j0ZTN9S" alt="Coder GIF" width="300" height="250">
-			<iframe src="https://giphy.com/embed/JIX9t2j0ZTN9S" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="">via GIPHY</a></p>
+		<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coder GIF" width="300" height="250">
+			>
 		</td>
 		<td>
       <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmansk" alt="rahmansk" /> </p>
