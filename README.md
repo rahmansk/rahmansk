@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi Everyone!
-
 | STUDENT | PROGRAMER | INFO-SEC ADDICT | SECURITY-ANALYST | HACKER | WEB-APP | NETWORK PENTESTER | BUG HUNTER |
 
 
