@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 Hi Everyone!
 
-|#STUDENT | #PROGRAMER | #INFO-SEC ADDICT | #SECURITY-ANALYST Left-pointing magnifying glass | #HACKER | #WEB-APP  | #NETWORK PENTESTER Desktop computer | #BUG HUNTER Receipt |
+| STUDENT | PROGRAMER | INFO-SEC ADDICT | SECURITY-ANALYST | HACKER | WEB-APP PENTESTER | NETWORK PENTESTER | BUG HUNTER |
 
 
 
