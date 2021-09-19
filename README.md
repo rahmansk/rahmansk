@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 Hi Everyone!
 
-I'm Mohamed Rahman Shareff S, Cyber Security Enthusiast, basically a Blogger, YouTuber, Web Developer, Graphical Designer, Programmer, Digital Marketer, and much more.... 
+|#STUDENT | #PROGRAMER | #INFO-SEC ADDICT | #SECURITY-ANALYST Left-pointing magnifying glass | #HACKER | #WEB-APP  | #NETWORK PENTESTER Desktop computer | #BUG HUNTER Receipt |
 
 
 
