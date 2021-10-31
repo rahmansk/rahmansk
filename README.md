@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/-YouTube-000000?style=social&logo=youtube" />](https://www.youtube.com/channel/UCx4tcwaSz8elmLarpaEH4cQ) 
 [<img src="https://img.shields.io/badge/-Pinterest-000000?style=social&logo=pinterest" />](https://in.pinterest.com/#/) 
 [<img src="https://img.shields.io/badge/-Medium-000000?style=social&logo=medium" />](https://mohamedrahmanshareff.medium.com)
-[<img src="https://img.shields.io/badge/-Instagram-000000?style=social&logo=instagram" />](https://www.instagram.com/shariff_official_site/)
+[<img src="https://img.shields.io/badge/-Instagram-000000?style=social&logo=instagram" />](https://www.instagram.com/shareff_myth__/)
 
 [<img src="https://img.shields.io/badge/-Twitter-000000?style=social&logo=twitter" />](https://twitter.com/rahman_shareff) 
 [<img src="https://img.shields.io/badge/-Dribbble-000000?style=social&logo=dribbble" />](#) 
