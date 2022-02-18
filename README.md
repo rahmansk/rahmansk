@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| STUDENT | PROGRAMER | DEVOPS GEEK | CLOUD COMPUTING [ AWS/AZURE/GCP ] | CYBER SECURITY | BIG DATA
+| STUDENT | PROGRAMER | DEVOPS GEEK | CLOUD COMPUTING [ AWS/AZURE/GCP ] | CYBER SECURITY | BIG DATA |
 
 
-
+</br>
 
 
 <table style="border:0px;">
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 			>
 		</td>
 		<td>
-      <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmansk" alt="rahmansk" /> </p>
+      <p align="center"> <img src="https://komarev.com/ghpvc/?username=rahmansk" alt="rahmansk" /> </p>
 		</td>
 	</tr>
 </table>
