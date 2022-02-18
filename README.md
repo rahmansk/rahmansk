@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| STUDENT | PROGRAMER | INFO-SEC ADDICT | SECURITY-ANALYST | HACKER | WEB-APP | NETWORK PENTESTER | BUG HUNTER |
+| STUDENT | PROGRAMER | DEVOPS GEEK | CLOUD COMPUTING [ AWS/AZURE/GCP ] | CYBER SECURITY | BIG DATA
 
 
 
@@ -57,8 +57,6 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/-Medium-000000?style=social&logo=medium" />](https://mohamedrahmanshareff.medium.com)
 [<img src="https://img.shields.io/badge/-Instagram-000000?style=social&logo=instagram" />](https://www.instagram.com/shareff_myth__/)
 [<img src="https://img.shields.io/badge/-Twitter-000000?style=social&logo=twitter" />](https://twitter.com/rahman_shareff) 
-[<img src="https://img.shields.io/badge/-Dribbble-000000?style=social&logo=dribbble" />](#) 
-[<img src="https://img.shields.io/badge/-Behance-000000?style=social&logo=behance" />](#)
 [<img src="https://img.shields.io/badge/-Discord-000000?style=social&logo=discord" />](#)
 [<img src="https://img.shields.io/badge/-StackOverflow-000000?style=social&logo=stackoverflow" />](#)
 [<img src="https://img.shields.io/badge/-Reddit-000000?style=social&logo=reddit" />](#)
