@@ -56,10 +56,9 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/-YouTube-000000?style=social&logo=youtube" />](https://www.youtube.com/channel/UCx4tcwaSz8elmLarpaEH4cQ) 
 [<img src="https://img.shields.io/badge/-Medium-000000?style=social&logo=medium" />](https://mohamedrahmanshareff.medium.com)
 [<img src="https://img.shields.io/badge/-Instagram-000000?style=social&logo=instagram" />](https://www.instagram.com/shareff_myth__/)
-[<img src="https://img.shields.io/badge/-Twitter-000000?style=social&logo=twitter" />](https://twitter.com/rahman_shareff) 
-[<img src="https://img.shields.io/badge/-Discord-000000?style=social&logo=discord" />](#)
-[<img src="https://img.shields.io/badge/-StackOverflow-000000?style=social&logo=stackoverflow" />](#)
-[<img src="https://img.shields.io/badge/-Reddit-000000?style=social&logo=reddit" />](#)
+[<img src="https://img.shields.io/badge/-Twitter-000000?style=social&logo=twitter" />](https://twitter.com/rahman_shareff)
+[<img src="https://img.shields.io/badge/-StackOverflow-000000?style=social&logo=stackoverflow" />](https://stackoverflow.com/users/18313881/mr-shareff)
+[<img src="https://img.shields.io/badge/-Reddit-000000?style=social&logo=reddit" />](https://www.reddit.com/user/mrshareff__)
 
 
 
@@ -79,4 +78,4 @@ Here are some ideas to get you started:
 
 ### My Portfolio- 
 
-[<img src="https://img.shields.io/badge/Check_Out-My_Website-brightgreen" />](https://shareff007.netlify.com)
+[<img src="https://img.shields.io/badge/Check_Out-My_Website-brightgreen" />](https://rahmansk.github.io)
