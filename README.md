@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </br>
 
 
-<table style="border:0px;">
+<table style="border:0px;" align="center">
 	<tr>
 		<td>
 		<img src="https://media-exp1.licdn.com/dms/image/C5616AQHXhCPnnYdq1w/profile-displaybackgroundimage-shrink_200_800/0/1638456808574?e=2147483647&v=beta&t=wEG7UlkA_BCd2gD_xHomi23fybkA__W_jwgOsx_vPts" alt="Coder GIF">
