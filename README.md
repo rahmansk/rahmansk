@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">| STUDENT | PROGRAMER | DEVOPS | CLOUD COMPUTING [ AWS/AZURE/GCP ] | CYBER SECURITY | BIG DATA |</h3>
+<h3 align="center">| STUDENT | PROGRAMER | DEVOPS | CLOUD [ AWS/AZURE/GCP ] | CYBER SECURITY | BIG DATA |</h3>
 
 
 </br>
