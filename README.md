@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 	</tr>
 </table>
 
-<h2 align="center">![Github stats](https://github-readme-stats.vercel.app/api?username=rahmansk)</h2>
+![Github stats](https://github-readme-stats.vercel.app/api?username=rahmansk)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmansk&hide=TeX&layout=compact&count_private=true)
 
