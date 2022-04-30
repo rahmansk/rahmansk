@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <table style="border:0px;">
 	<tr>
 		<td>
-		<img src="https://media-exp1.licdn.com/dms/image/C5616AQHXhCPnnYdq1w/profile-displaybackgroundimage-shrink_200_800/0/1638456808574?e=2147483647&v=beta&t=wEG7UlkA_BCd2gD_xHomi23fybkA__W_jwgOsx_vPts" alt="Coder GIF" width="300" height="250">
+		<img src="https://media-exp1.licdn.com/dms/image/C5616AQHXhCPnnYdq1w/profile-displaybackgroundimage-shrink_200_800/0/1638456808574?e=2147483647&v=beta&t=wEG7UlkA_BCd2gD_xHomi23fybkA__W_jwgOsx_vPts" alt="Coder GIF">
 		</td>
 		<td>
       <p align="center"> <img src="https://komarev.com/ghpvc/?username=rahmansk" alt="rahmansk" /> </p>
