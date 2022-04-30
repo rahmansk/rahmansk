@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 <table style="border:0px;">
 	<tr>
 		<td>
-		<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coder GIF" width="300" height="250">
-			>
+		<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coder GIF" width="300" height="250" align="center">
 		</td>
 		<td>
       <p align="center"> <img src="https://komarev.com/ghpvc/?username=rahmansk" alt="rahmansk" /> </p>
