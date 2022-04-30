@@ -1,4 +1,4 @@
-### Hi there 👋
+### HELLO WORLD👋
 
 
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| STUDENT | PROGRAMER | DEVOPS GEEK | CLOUD COMPUTING [ AWS/AZURE/GCP ] | CYBER SECURITY | BIG DATA |
+| STUDENT | PROGRAMER | DEVOPS | CLOUD COMPUTING [ AWS/AZURE/GCP ] | CYBER SECURITY | BIG DATA |
 
 
 </br>
