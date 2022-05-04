@@ -1,20 +1,5 @@
 ### <h1 align="center">HELLO WORLD <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> ❕❕</h1>
 
-<!--
-
-rahmansk/rahmansk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 Cyber Security  Enthusiast...
-- 🌱 I’m currently learning Ethical Hacking...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: m
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <h3 align="center">| STUDENT | PROGRAMER | DEVOPS | CLOUD [ AWS/AZURE/GCP ] | CYBER SECURITY | BIG DATA |</h3>
 
@@ -51,18 +36,16 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/-StackOverflow-000000?style=social&logo=stackoverflow" />](https://stackoverflow.com/users/18313881/mr-shareff)
 [<img src="https://img.shields.io/badge/-Reddit-000000?style=social&logo=reddit" />](https://www.reddit.com/user/mrshareff__)
 
-<!--[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/pkKsNfJT) -->
-
 <br>
 
-<!-- ![Linkedin](https://img.shields.io/badge/-LinkedIn-000000?style=social&logo=linkedin)
+![Linkedin](https://img.shields.io/badge/-LinkedIn-000000?style=social&logo=linkedin)
 ![Gmail](https://img.shields.io/badge/-Gmail-000000?style=social&logo=gmail) -->
 
 <!-- ![World](https://img.shields.io/badge/-World-000000?style=social&logo=world) -->
 
-<!-- [<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:mohamedrahmanshareff@gmail.com) -->
+[<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:mohamedrahmanshareff@gmail.com)
 
-<!-- [<img src ="https://img.shields.io/badge/My_Website-%23E4405F.svg?&style=for-the-badge&logo=world&logoColor=white">](https://shareff007.netlify.com) -->
+[<img src ="https://img.shields.io/badge/My_Website-%23E4405F.svg?&style=for-the-badge&logo=world&logoColor=white">](https://shareff007.netlify.com)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
