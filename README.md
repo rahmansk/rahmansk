@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <h3 align="center">| STUDENT | PROGRAMER | DEVOPS | CLOUD [ AWS/AZURE/GCP ] | CYBER SECURITY | BIG DATA |</h3>
 
 </br>
-<p align="center"> <a href="https://twitter.com/rahman_shareff" target="blank"><img src="https://img.shields.io/twitter/follow/chandrikadeb7?logo=twitter&style=for-the-badge" alt="chandrikadeb7" /></a> </p>
+<p align="center"> <a href="https://twitter.com/rahman_shareff" target="blank"><img src="https://img.shields.io/twitter/follow/rahman_shareff?logo=twitter&style=for-the-badge" alt="Mohamed Rahman Shareff S" /></a> </p>
 
 </br>
 
