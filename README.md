@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 
 <h3 align="center">| STUDENT | PROGRAMER | DEVOPS | CLOUD [ AWS/AZURE/GCP ] | CYBER SECURITY | BIG DATA |</h3>
 
-<p align="left"> <a href="https://twitter.com/chandrikadeb7" target="blank"><img src="https://img.shields.io/twitter/follow/chandrikadeb7?logo=twitter&style=for-the-badge" alt="chandrikadeb7" /></a> </p>
+</br>
+<p align="center"> <a href="https://twitter.com/rahman_shareff" target="blank"><img src="https://img.shields.io/twitter/follow/chandrikadeb7?logo=twitter&style=for-the-badge" alt="chandrikadeb7" /></a> </p>
 
 </br>
 
