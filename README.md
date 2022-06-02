@@ -1,26 +1,16 @@
-### <h1 align="center">HELLO WORLD <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> ❕❕</h1>
+<h1 align=center>HELLO WORLD 🖐🏻 ❕❕</h1>
 
+
+<div align=center><img src="https://media-exp1.licdn.com/dms/image/C5616AQHXhCPnnYdq1w/profile-displaybackgroundimage-shrink_200_800/0/1638456808574?e=2147483647&v=beta&t=wEG7UlkA_BCd2gD_xHomi23fybkA__W_jwgOsx_vPts" alt="Coder GIF" width="100%"></div>
 
 <h3 align="center">| STUDENT | PROGRAMER | DEVOPS | CLOUD [ AWS/AZURE/GCP ] | CYBER SECURITY | BIG DATA |</h3>
 
 </br>
 <p align="center"> <a href="https://twitter.com/rahman_shareff" target="blank"><img src="https://img.shields.io/twitter/follow/rahman_shareff?logo=twitter&style=for-the-badge" alt="Mohamed Rahman Shareff S" /></a> </p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rahmansk" alt="rahmansk" /> </p>
 </br>
 
-<table style="border:0px;" align="left">
-	<tr>
-		<td>
-		<img src="https://media-exp1.licdn.com/dms/image/C5616AQHXhCPnnYdq1w/profile-displaybackgroundimage-shrink_200_800/0/1638456808574?e=2147483647&v=beta&t=wEG7UlkA_BCd2gD_xHomi23fybkA__W_jwgOsx_vPts" alt="Coder GIF">
-		</td>
-		<td>
-      <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmansk" alt="rahmansk" /> </p>
-		</td>
-	</tr>
-</table>
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rahmansk)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmansk&hide=TeX&layout=compact&count_private=true)
 
 ### Connect with me on -
@@ -33,8 +23,6 @@
 [<img src="https://img.shields.io/badge/-Twitter-000000?style=social&logo=twitter" />](https://twitter.com/rahman_shareff)
 [<img src="https://img.shields.io/badge/-StackOverflow-000000?style=social&logo=stackoverflow" />](https://stackoverflow.com/users/18313881/mr-shareff)
 [<img src="https://img.shields.io/badge/-Reddit-000000?style=social&logo=reddit" />](https://www.reddit.com/user/mrshareff__)
-
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
