@@ -3,7 +3,7 @@
 
 <div align=center><img src="https://media-exp1.licdn.com/dms/image/C5616AQHXhCPnnYdq1w/profile-displaybackgroundimage-shrink_200_800/0/1638456808574?e=2147483647&v=beta&t=wEG7UlkA_BCd2gD_xHomi23fybkA__W_jwgOsx_vPts" alt="Coder GIF" width="100%"></div>
 
-<h3 align="center">| STUDENT | PROGRAMMER [ BASH & PYTHON ] | DEVOPS | CLOUD [ AWS & AZURE ] | CYBER SECURITY | AI/ML |</h3>
+<h3 align="center">| STUDENT | PROGRAMMER [ BASH & PYTHON ] | DEVOPS | CLOUD [ AWS & AZURE ] | CYBER SECURITY |</h3>
 
 </br>
 <p align="center"> <a href="https://twitter.com/rahman_shareff" target="blank"><img src="https://img.shields.io/twitter/follow/rahman_shareff?logo=twitter&style=for-the-badge" alt="Mohamed Rahman Shareff S" /></a> </p>
