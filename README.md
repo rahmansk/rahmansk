@@ -1,7 +1,7 @@
 <h1 align=center>HELLO WORLD 🖐🏻 ❕❕</h1>
 
 
-<div align=center><img src="https://media-exp1.licdn.com/dms/image/C5616AQGThFai7pQhsA/profile-displaybackgroundimage-shrink_350_1400/0/1668418796540?e=1675296000&v=beta&t=r4SV0iVnWjCCTtHCOysZ3P7O-J0unWx3ZptCAAOfjH0" alt="Coder GIF" width="100%"></div>
+<div align=center><img src="https://media-exp1.licdn.com/dms/image/D5616AQHaPTMuqwf_1w/profile-displaybackgroundimage-shrink_350_1400/0/1669545305242?e=1675296000&v=beta&t=HZEE1-Tkzf0tjKnZUHnuZWM_PAqM79X0MtsjqrRJr6I" alt="Coder GIF" width="100%"></div>
 
 <h3 align="center">| STUDENT | PROGRAMMER [ BASH & PYTHON ] | DEVOPS | CLOUD [ AWS & AZURE ] | CYBER SECURITY |</h3>
 
